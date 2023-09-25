@@ -1,0 +1,35 @@
+/* Common css start  */
+h1,h2,h3,h4,h5,h6,p,ul,ol{
+    margin: 0;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul{
+    list-style: none;
+
+}
+ a{
+    text-decoration: none;
+ }
+/* Common css End  */
+
+/* nav section start */
+nav{
+    background-color: #02918c;
+}
+#primary_nav #menu ul a{
+    color: #ffff;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 12px;
+    display: inline-block;
+    padding: 14px 22px;
+}
+/* nav section end */
+
+/* banner section start */
+
+
+/* banner section end */
